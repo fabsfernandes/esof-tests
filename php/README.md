@@ -12,7 +12,7 @@ Estas instruções são para execução no seguinte ambiente:
 3) Acessar o diretório onde salvou o seu arquivo 'phpunit-9.phar' (no Windows, utilizar o comando **dir** caminho\para\o\diretorio)
 ![Acessar diretório](https://github.com/fabsfernandes/esof-tests/blob/main/php/acessar-diretorio-onde-bibliotecaphpunit-foisalva.png)
 4) Executar o teste utilizando o seguinte comando: phpunit-9.5.10.phar caminho\onde\estah\seu\codigo\php\php-unittest\PessoaTest.php tests
-![Acessar diretório](https://github.com/fabsfernandes/esof-tests/blob/main/php/acessar-diretorio-onde-bibliotecaphpunit-foisalva.png)
+![Acessar diretório](https://github.com/fabsfernandes/esof-tests/blob/main/php/execucao-phpunitest.png)
 5) Verificar resultado do teste unitário
 ![Acessar diretório](https://github.com/fabsfernandes/esof-tests/blob/main/php/acessar-diretorio-onde-bibliotecaphpunit-foisalva.png)
  
